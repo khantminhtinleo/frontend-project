@@ -48,6 +48,8 @@ body{
     margin-bottom: 0.5rem;
     font-size: 1.125rem;
     text-decoration: none;
+    background: #ff5c00;
+    background: 30%;
 
 }
 .top-right a:hover{
@@ -117,4 +119,9 @@ nav a{
     font-size: 1.5rem;
     font-weight: bold;
     margin-bottom: 0.3125rem;
+}
+#order {
+    background: #e65100;
+    border-radius: 20px;
+    padding: 10px;
 }
